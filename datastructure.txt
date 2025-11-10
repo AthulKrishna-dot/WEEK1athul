@@ -1,0 +1,9 @@
+waste-classification-project/
+│── train.ipynb
+│── model/
+│     └── waste_model.h5
+│── src/
+│     ├── dataload.py
+│     ├── model.py
+│     └── train.py
+│── README.md
